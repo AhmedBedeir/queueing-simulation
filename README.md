@@ -1,7 +1,7 @@
 # Queueing Simulation
 Sharing of resources and waiting in queues is a common 
 phenomenon that occurs in every facet of our lives. 
-
+![QS](images/QS.JPG)
 examples:
 - banks/supermarkets waiting for service
 - computers waiting for a response
